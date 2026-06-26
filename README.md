@@ -21,11 +21,11 @@ This portfolio website was created to showcase my skills, projects, and educatio
 
 ##  Project Structure :
 
-Portfolio-website/
-│── index.html
-│── style.css
-│── script.js
-└── README.md
+Portfolio-website
+- index.html
+- style.css
+- script.js
+- README.md
 
 
 ## Purpose :
